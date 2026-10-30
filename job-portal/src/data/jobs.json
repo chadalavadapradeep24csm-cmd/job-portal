@@ -1,0 +1,726 @@
+[
+  {
+    "id": "job-1",
+    "title": "Senior Frontend Engineer (React)",
+    "company": "Stripe",
+    "companyLogo": "ST",
+    "companyColor": "#635bff",
+    "category": "Software Engineering",
+    "location": "San Francisco, CA",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Senior Level",
+    "salary": "$145,000 - $185,000 / yr",
+    "salaryMin": 145000,
+    "salaryMax": 185000,
+    "postedDate": "2026-10-11",
+    "featured": true,
+    "urgent": false,
+    "skills": ["React", "TypeScript", "Next.js", "GraphQL", "Web Performance"],
+    "description": "Stripe is building the economic infrastructure for the internet. As a Senior Frontend Engineer on our Dashboard and Merchant Experience team, you will craft world-class, lightning-fast financial user interfaces used by millions of global businesses every day.",
+    "responsibilities": [
+      "Architect and scale modern React/TypeScript components for high-traffic financial dashboards.",
+      "Collaborate closely with product designers to build intuitive, accessible, and responsive customer flows.",
+      "Improve web performance metrics (Core Web Vitals, bundle optimization, SSR streaming).",
+      "Mentor mid-level and junior engineers through empathetic code reviews and design doc sessions.",
+      "Lead initiatives to continuously modernize our design system components."
+    ],
+    "requirements": [
+      "5+ years of professional web application engineering experience using modern React.",
+      "Strong proficiency in TypeScript, modern JavaScript (ES6+), and CSS layout systems.",
+      "Deep understanding of browser internals, state management, and asynchronous network patterns.",
+      "Experience writing robust unit and integration test suites (Jest, React Testing Library, Playwright).",
+      "Demonstrated track record of delivering resilient, accessible, and user-delighting products."
+    ],
+    "benefits": [
+      "Comprehensive medical, dental, and vision healthcare coverage",
+      "401(k) retirement plan with 5% employer match",
+      "Annual $2,500 continuous learning & development stipend",
+      "Generous home-office budget and remote work equipment setup",
+      "Unlimited flexible PTO and paid parental leave"
+    ],
+    "companyOverview": {
+      "about": "Stripe is a financial infrastructure platform for businesses. Millions of companies use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
+      "size": "7,000+ employees",
+      "industry": "Financial Technology",
+      "founded": "2010",
+      "website": "https://stripe.com"
+    }
+  },
+  {
+    "id": "job-2",
+    "title": "Full Stack Developer",
+    "company": "Vercel",
+    "companyLogo": "VC",
+    "companyColor": "#000000",
+    "category": "Software Engineering",
+    "location": "New York, NY",
+    "jobType": "Full-time",
+    "workMode": "Hybrid",
+    "experience": "Mid Level",
+    "salary": "$125,000 - $160,000 / yr",
+    "salaryMin": 125000,
+    "salaryMax": 160000,
+    "postedDate": "2026-10-12",
+    "featured": true,
+    "urgent": true,
+    "skills": ["Next.js", "Node.js", "PostgreSQL", "Serverless", "Tailwind CSS"],
+    "description": "Join Vercel's mission to enable the world to ship the next web. We are looking for an ambitious Full Stack Developer to help build the developer cloud tools that power hundreds of thousands of high-profile websites globally.",
+    "responsibilities": [
+      "Develop end-to-end features bridging Node.js microservices with Next.js frontends.",
+      "Optimize edge compute workflows, preview deployments, and telemetry streaming.",
+      "Build robust REST and GraphQL API endpoints backed by PostgreSQL and Redis caches.",
+      "Participate in on-call rotations to maintain high availability across global edge nodes."
+    ],
+    "requirements": [
+      "3+ years building full-stack applications with Node.js and React/Next.js.",
+      "Solid understanding of relational databases, schema design, and query optimization.",
+      "Hands-on experience with serverless architecture and cloud platforms (AWS, GCP, or Vercel).",
+      "Familiarity with CI/CD deployment pipelines and automated testing."
+    ],
+    "benefits": [
+      "Top-tier health and dental benefits",
+      "Hybrid flexibility with modern collaborative office hubs",
+      "Annual conference and travel allowance",
+      "Equity stock options in a fast-growing tech leader"
+    ],
+    "companyOverview": {
+      "about": "Vercel provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized web.",
+      "size": "500-1000 employees",
+      "industry": "Cloud Computing & Developer Tools",
+      "founded": "2015",
+      "website": "https://vercel.com"
+    }
+  },
+  {
+    "id": "job-3",
+    "title": "Lead UI/UX Product Designer",
+    "company": "Figma",
+    "companyLogo": "FG",
+    "companyColor": "#f24e1e",
+    "category": "UI/UX Design",
+    "location": "San Francisco, CA",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Lead / Director",
+    "salary": "$160,000 - $210,000 / yr",
+    "salaryMin": 160000,
+    "salaryMax": 210000,
+    "postedDate": "2026-10-10",
+    "featured": true,
+    "urgent": false,
+    "skills": ["Figma", "Design Systems", "Prototyping", "User Research", "Interaction Design"],
+    "description": "Figma makes design accessible to everyone. We are seeking an inspiring Lead UI/UX Product Designer to drive the vision for next-generation collaborative design and canvas-based product experiences.",
+    "responsibilities": [
+      "Lead end-to-end product design from customer problem definition to final polish.",
+      "Design complex workflows, interaction models, and stateful prototypes in Figma.",
+      "Conduct qualitative user interviews and synthesize insights into concrete product roadmaps.",
+      "Standardize and scale design tokens, component libraries, and visual guidelines.",
+      "Partner with product managers and engineering leads to deliver cohesive design solutions."
+    ],
+    "requirements": [
+      "6+ years of digital product design experience for complex SaaS platforms.",
+      "An exceptional portfolio showing mastery in interaction design, typography, and systems thinking.",
+      "Deep experience conducting user research, usability testing, and analytics-driven iterations.",
+      "Proven ability to articulate design decisions with high clarity to cross-functional leaders."
+    ],
+    "benefits": [
+      "100% employer-covered health and wellness plan",
+      "Wellness stipend ($150/month for gym, sports, or mental health)",
+      "Home workspace upgrade reimbursement up to $2,000",
+      "Generous equity grants and retirement match"
+    ],
+    "companyOverview": {
+      "about": "Figma is the leading collaborative interface design tool. Teams connect in real time to ideate, prototype, and build memorable digital products.",
+      "size": "1,500+ employees",
+      "industry": "Design & Productivity Software",
+      "founded": "2012",
+      "website": "https://figma.com"
+    }
+  },
+  {
+    "id": "job-4",
+    "title": "Data Scientist / Machine Learning Engineer",
+    "company": "Spotify",
+    "companyLogo": "SP",
+    "companyColor": "#1db954",
+    "category": "Data & AI",
+    "location": "New York, NY",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Mid Level",
+    "salary": "$135,000 - $175,000 / yr",
+    "salaryMin": 135000,
+    "salaryMax": 175000,
+    "postedDate": "2026-10-09",
+    "featured": false,
+    "urgent": true,
+    "skills": ["Python", "PyTorch", "SQL", "Recommendation Systems", "Spark"],
+    "description": "At Spotify, our mission is to unlock human creativity by giving millions of creators the chance to live off their art. In this role, you will develop machine learning recommendation models that shape music and podcast discovery for over 500 million listeners.",
+    "responsibilities": [
+      "Design and train collaborative filtering, embeddings, and deep learning ranking models.",
+      "Run large-scale A/B experiments to evaluate personalization algorithms against core retention metrics.",
+      "Build high-throughput data pipelines using BigQuery, Spark, and GCP.",
+      "Collaborate with audio curators and product teams to refine audio discovery playlists."
+    ],
+    "requirements": [
+      "3+ years applying machine learning in consumer tech or high-traffic products.",
+      "Strong coding abilities in Python (NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow).",
+      "Proficient in distributed computing and writing clean SQL transformations.",
+      "Strong statistical foundation in hypothesis testing and A/B experimentation."
+    ],
+    "benefits": [
+      "Global Flexible Work model (work from anywhere in eligible regions)",
+      "Spotify Premium subscription for you and family",
+      "Comprehensive healthcare and fertility support",
+      "6 months fully paid parental leave globally"
+    ],
+    "companyOverview": {
+      "about": "Spotify transformed music listening forever when it launched in 2008. Today, it is the world's most popular audio streaming subscription service.",
+      "size": "9,000+ employees",
+      "industry": "Audio Streaming & Media",
+      "founded": "2006",
+      "website": "https://spotify.com"
+    }
+  },
+  {
+    "id": "job-5",
+    "title": "Cloud DevOps & Infrastructure Engineer",
+    "company": "Datadog",
+    "companyLogo": "DD",
+    "companyColor": "#6320ee",
+    "category": "DevOps & Cloud",
+    "location": "Boston, MA",
+    "jobType": "Full-time",
+    "workMode": "Hybrid",
+    "experience": "Senior Level",
+    "salary": "$150,000 - $190,000 / yr",
+    "salaryMin": 150000,
+    "salaryMax": 190000,
+    "postedDate": "2026-10-12",
+    "featured": false,
+    "urgent": false,
+    "skills": ["Kubernetes", "Terraform", "AWS", "Docker", "CI/CD"],
+    "description": "Datadog provides observability and security for cloud applications. We are searching for a DevOps Engineer to maintain our high-throughput Kubernetes clusters and automate self-healing infrastructure.",
+    "responsibilities": [
+      "Manage and orchestrate multi-region Kubernetes clusters across AWS and GCP.",
+      "Automate infrastructure provisioning using Terraform and GitOps practices.",
+      "Improve CI/CD delivery pipelines, accelerating developer release velocity while enforcing security scans.",
+      "Monitor system health, SLOs, and latencies with real-time alerting dashboards."
+    ],
+    "requirements": [
+      "4+ years administering cloud-native infrastructure at scale.",
+      "Strong mastery of Docker containerization and Kubernetes orchestration.",
+      "Proficiency with Infrastructure as Code (Terraform, Pulumi, or CloudFormation).",
+      "Scripting fluency in Go, Python, or Bash."
+    ],
+    "benefits": [
+      "Competitive base salary and restricted stock units (RSUs)",
+      "401(k) retirement savings plan",
+      "Comprehensive dental, medical, and vision insurance",
+      "Monthly commuter and wellness benefits"
+    ],
+    "companyOverview": {
+      "about": "Datadog is an essential monitoring and analytics platform for cloud applications and enterprise infrastructure.",
+      "size": "5,000+ employees",
+      "industry": "Cloud Observability & Security",
+      "founded": "2010",
+      "website": "https://datadoghq.com"
+    }
+  },
+  {
+    "id": "job-6",
+    "title": "Senior Product Manager",
+    "company": "Slack",
+    "companyLogo": "SL",
+    "companyColor": "#4a154b",
+    "category": "Product Management",
+    "location": "Austin, TX",
+    "jobType": "Full-time",
+    "workMode": "Hybrid",
+    "experience": "Senior Level",
+    "salary": "$155,000 - $195,000 / yr",
+    "salaryMin": 155000,
+    "salaryMax": 195000,
+    "postedDate": "2026-10-08",
+    "featured": true,
+    "urgent": false,
+    "skills": ["Product Strategy", "User Research", "Agile", "Roadmapping", "Data Analytics"],
+    "description": "Slack is the productivity platform for enterprise communication. As a Senior Product Manager, you will define the roadmap for asynchronous collaboration tools, Slack Connect, and workflow builder integrations.",
+    "responsibilities": [
+      "Set the product vision and define milestones for key enterprise collaboration features.",
+      "Gather user insights through interviews, surveys, and telemetry analytics to identify pain points.",
+      "Write thorough Product Requirement Documents (PRDs) and facilitate cross-functional sprint planning.",
+      "Communicate progress, strategy, and KPIs to senior stakeholders and enterprise clients."
+    ],
+    "requirements": [
+      "5+ years product management experience within B2B SaaS or consumer productivity software.",
+      "Demonstrated ability to take products from 0 to 1 and scale existing features to millions of MAU.",
+      "Data-driven mindset with experience using Mixpanel, Amplitude, or SQL for feature analytics.",
+      "Exceptional written communication and cross-functional leadership skills."
+    ],
+    "benefits": [
+      "Salesforce/Slack parent company health and wellness package",
+      "Flexible PTO policy and volunteer time off (VTO)",
+      "Parental bonding leave and family assistance programs",
+      "Annual education and tuition reimbursement"
+    ],
+    "companyOverview": {
+      "about": "Slack makes work life simpler, more pleasant, and more productive. It is used by teams in over 150 countries.",
+      "size": "3,000+ employees",
+      "industry": "Workplace Collaboration & SaaS",
+      "founded": "2013",
+      "website": "https://slack.com"
+    }
+  },
+  {
+    "id": "job-7",
+    "title": "Junior Frontend Developer (React & Web)",
+    "company": "Canva",
+    "companyLogo": "CV",
+    "companyColor": "#00c4cc",
+    "category": "Software Engineering",
+    "location": "Austin, TX",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Entry Level",
+    "salary": "$75,000 - $95,000 / yr",
+    "salaryMin": 75000,
+    "salaryMax": 95000,
+    "postedDate": "2026-10-13",
+    "featured": false,
+    "urgent": true,
+    "skills": ["JavaScript", "React", "HTML5", "CSS3", "Git"],
+    "description": "Are you an enthusiastic junior developer eager to learn and make an impact? Canva is looking for a passionate Junior Frontend Developer to join our Creator Templates team and help millions create visual designs effortlessly.",
+    "responsibilities": [
+      "Implement user-friendly UI components using modern React and semantic HTML5.",
+      "Fix bugs, refine responsive CSS layouts, and enhance mobile accessibility.",
+      "Work alongside experienced mentors who will provide weekly 1-on-1 code reviews and coaching.",
+      "Write clear documentation and assist in building reusable UI widgets."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science or demonstrable frontend project portfolio / boot camp graduate.",
+      "Good foundation in JavaScript (ES6+), React hooks, and CSS flexbox / grid.",
+      "Eager mindset, strong problem-solving initiative, and openness to learning.",
+      "Basic understanding of Git version control and GitHub pull request workflows."
+    ],
+    "benefits": [
+      "Comprehensive starter health coverage",
+      "Dedicated senior mentor assigned to your onboarding",
+      "Work from home stipend and new laptop equipment",
+      "Fun team hackathons and global creative retreats"
+    ],
+    "companyOverview": {
+      "about": "Canva is a free-to-use online graphic design tool used by over 135 million active monthly creators worldwide.",
+      "size": "4,000+ employees",
+      "industry": "Graphic Design & Digital Publishing",
+      "founded": "2012",
+      "website": "https://canva.com"
+    }
+  },
+  {
+    "id": "job-8",
+    "title": "iOS Mobile App Developer (Swift)",
+    "company": "Airbnb",
+    "companyLogo": "AB",
+    "companyColor": "#ff5a5f",
+    "category": "Mobile Development",
+    "location": "Seattle, WA",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Senior Level",
+    "salary": "$150,000 - $195,000 / yr",
+    "salaryMin": 150000,
+    "salaryMax": 195000,
+    "postedDate": "2026-10-11",
+    "featured": true,
+    "urgent": false,
+    "skills": ["Swift", "SwiftUI", "Combine", "iOS SDK", "Mobile Architecture"],
+    "description": "Airbnb belongs anywhere. As a Senior iOS Engineer on our Guest Booking experience team, you will craft fluid native mobile animations, checkout flows, and search experiences enjoyed by millions of world travelers.",
+    "responsibilities": [
+      "Build delightful, accessible native experiences using Swift and SwiftUI.",
+      "Architect clean modularized frameworks with robust unit and snapshot test coverage.",
+      "Collaborate with backend engineers to define scalable GraphQL data schemas.",
+      "Profile application startup times, memory footprint, and network latency."
+    ],
+    "requirements": [
+      "4+ years building and shipping native iOS applications in the App Store.",
+      "Deep expertise in Swift, SwiftUI, and modern concurrency (async/await, Combine).",
+      "Strong understanding of Apple Human Interface Guidelines and responsive layouts.",
+      "Experience optimizing mobile battery usage, caching, and offline data persistence."
+    ],
+    "benefits": [
+      "Annual $2,000 travel credit to stay at Airbnb homes anywhere in the world",
+      "Competitive base salary, equity, and bonus program",
+      "Medical, dental, vision, and mental health coverage",
+      "Remote-first flexible work policy"
+    ],
+    "companyOverview": {
+      "about": "Airbnb connects travelers seeking authentic stays with passionate hosts around the globe.",
+      "size": "6,500+ employees",
+      "industry": "Travel & Hospitality Tech",
+      "founded": "2008",
+      "website": "https://airbnb.com"
+    }
+  },
+  {
+    "id": "job-9",
+    "title": "Cybersecurity & Security Operations Analyst",
+    "company": "CrowdStrike",
+    "companyLogo": "CS",
+    "companyColor": "#e02020",
+    "category": "Cybersecurity",
+    "location": "Washington, DC",
+    "jobType": "Full-time",
+    "workMode": "Hybrid",
+    "experience": "Mid Level",
+    "salary": "$115,000 - $145,000 / yr",
+    "salaryMin": 115000,
+    "salaryMax": 145000,
+    "postedDate": "2026-10-09",
+    "featured": false,
+    "urgent": false,
+    "skills": ["SIEM", "Incident Response", "Network Security", "Threat Hunting", "Python"],
+    "description": "CrowdStrike protects customers from modern cyber threats and breaches. In this role, you will analyze suspicious events, investigate telemetry signals, and harden cloud network boundaries against sophisticated attackers.",
+    "responsibilities": [
+      "Monitor SIEM alerts and triage potential threat vectors in real time.",
+      "Execute incident response playbooks during critical security events.",
+      "Perform vulnerability assessments and partner with developers on remediation.",
+      "Automate repetitive SOC operations through Python scripts and webhooks."
+    ],
+    "requirements": [
+      "3+ years in Security Operations Center (SOC) or threat detection roles.",
+      "Certifications such as CompTIA Security+, CEH, or CISSP preferred.",
+      "Solid knowledge of TCP/IP protocols, firewalls, and cloud security best practices.",
+      "Experience investigating malware, phishing, and endpoint anomalies."
+    ],
+    "benefits": [
+      "Industry-leading 401(k) retirement matching",
+      "Full coverage health insurance and HSA contribution",
+      "Tuition assistance for cybersecurity certifications and degrees",
+      "Gym reimbursement and flexible scheduling"
+    ],
+    "companyOverview": {
+      "about": "CrowdStrike is a global cybersecurity leader that has redefined security with the world’s most advanced cloud-native platform.",
+      "size": "7,000+ employees",
+      "industry": "Information Security & Defense",
+      "founded": "2011",
+      "website": "https://crowdstrike.com"
+    }
+  },
+  {
+    "id": "job-10",
+    "title": "Growth & Performance Marketing Specialist",
+    "company": "HubSpot",
+    "companyLogo": "HS",
+    "companyColor": "#ff7a59",
+    "category": "Marketing",
+    "location": "Boston, MA",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Mid Level",
+    "salary": "$90,000 - $120,000 / yr",
+    "salaryMin": 90000,
+    "salaryMax": 120000,
+    "postedDate": "2026-10-10",
+    "featured": false,
+    "urgent": false,
+    "skills": ["SEO", "Google Ads", "Content Strategy", "Email Marketing", "Google Analytics"],
+    "description": "Help millions of businesses grow better with HubSpot. As a Growth Marketing Specialist, you will oversee multi-channel customer acquisition campaigns, optimize search rankings, and drive organic signups.",
+    "responsibilities": [
+      "Manage and optimize paid search (PPC) and display ad campaigns across Google and LinkedIn.",
+      "Analyze inbound conversion funnels and experiment with landing page variants.",
+      "Collaborate with content creators to produce SEO-optimized guides and case studies.",
+      "Track customer acquisition cost (CAC) and customer lifetime value (LTV) metrics."
+    ],
+    "requirements": [
+      "3+ years in digital marketing, performance acquisition, or growth marketing.",
+      "Hands-on expertise in Google Ads, Meta Ads Manager, and Google Analytics 4.",
+      "Strong analytical ability with Google Sheets / Excel and BI dashboard tools.",
+      "Proven history of improving organic search traffic and conversion conversion rates."
+    ],
+    "benefits": [
+      "Remote work stipend and ergonomic desk budget",
+      "Five-year sabbatical benefit (4 weeks paid time off)",
+      "Unlimited vacation policy and company-wide recharge weeks",
+      "Stock purchase plan (ESPP) with discount"
+    ],
+    "companyOverview": {
+      "about": "HubSpot is a leading CRM platform providing software and support to help businesses grow better.",
+      "size": "7,500+ employees",
+      "industry": "Marketing Software & CRM",
+      "founded": "2006",
+      "website": "https://hubspot.com"
+    }
+  },
+  {
+    "id": "job-11",
+    "title": "Backend Python / Go Developer",
+    "company": "GitHub",
+    "companyLogo": "GH",
+    "companyColor": "#24292e",
+    "category": "Software Engineering",
+    "location": "Chicago, IL",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Senior Level",
+    "salary": "$140,000 - $180,000 / yr",
+    "salaryMin": 140000,
+    "salaryMax": 180000,
+    "postedDate": "2026-10-12",
+    "featured": true,
+    "urgent": false,
+    "skills": ["Go", "Python", "PostgreSQL", "Kafka", "Microservices"],
+    "description": "GitHub is home for all developers. We are looking for an experienced Backend Engineer to scale our distributed git repository services, background job queues, and developer REST/GraphQL APIs.",
+    "responsibilities": [
+      "Design high-throughput backend services using Go and modern asynchronous Python.",
+      "Scale database architectures across partitioned PostgreSQL and distributed caches.",
+      "Design event-driven messaging pipelines utilizing Apache Kafka and RabbitMQ.",
+      "Implement zero-downtime deployment patterns and resilient circuit breakers."
+    ],
+    "requirements": [
+      "4+ years architecting scalable backend systems handling high concurrency.",
+      "Proficiency with Go (Golang) or Python, along with strong OOP/functional design principles.",
+      "Experience with relational data stores and query performance profiling.",
+      "Comfort with Linux systems programming and containerized environments."
+    ],
+    "benefits": [
+      "Competitive Microsoft-backed benefits package",
+      "Comprehensive medical, dental, vision, and mental healthcare",
+      "Home internet and mobile phone expense reimbursement",
+      "Annual charitable donation matching up to $15,000"
+    ],
+    "companyOverview": {
+      "about": "GitHub is where over 100 million developers collaborate to build software that shapes the future.",
+      "size": "3,000+ employees",
+      "industry": "Software Development Tools",
+      "founded": "2008",
+      "website": "https://github.com"
+    }
+  },
+  {
+    "id": "job-12",
+    "title": "QA Automation & Software Test Engineer",
+    "company": "Netflix",
+    "companyLogo": "NF",
+    "companyColor": "#e50914",
+    "category": "Software Engineering",
+    "location": "Los Gatos, CA",
+    "jobType": "Full-time",
+    "workMode": "On-site",
+    "experience": "Mid Level",
+    "salary": "$130,000 - $170,000 / yr",
+    "salaryMin": 130000,
+    "salaryMax": 170000,
+    "postedDate": "2026-10-07",
+    "featured": false,
+    "urgent": false,
+    "skills": ["Cypress", "Selenium", "Playwright", "JavaScript", "API Testing"],
+    "description": "Help Netflix deliver flawless streaming experiences to hundreds of millions of screens around the world. As a QA Automation Engineer, you will build end-to-end automated testing frameworks across TVs, web, and mobile clients.",
+    "responsibilities": [
+      "Build and maintain robust automated end-to-end test suites using Playwright and Cypress.",
+      "Integrate automated test runs into CI/CD pipelines to catch regression defects early.",
+      "Perform load, stress, and API contract testing on core playback microservices.",
+      "Collaborate with developers to define thorough test plans and test coverage targets."
+    ],
+    "requirements": [
+      "3+ years creating automated testing frameworks in JavaScript, TypeScript, or Python.",
+      "Hands-on experience with modern test runners (Playwright, Cypress, Jest).",
+      "Solid knowledge of RESTful API testing tools (Postman, REST Assured).",
+      "Strong debugging and root-cause analysis skills."
+    ],
+    "benefits": [
+      "Top-of-market compensation with flexible cash/stock allocation",
+      "Comprehensive medical and wellness plans",
+      "Free Netflix family subscription",
+      "Freedom and Responsibility company culture"
+    ],
+    "companyOverview": {
+      "about": "Netflix is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries.",
+      "size": "12,000+ employees",
+      "industry": "Entertainment & Video Streaming",
+      "founded": "1997",
+      "website": "https://netflix.com"
+    }
+  },
+  {
+    "id": "job-13",
+    "title": "Frontend React Intern (Summer 2027)",
+    "company": "Microsoft",
+    "companyLogo": "MS",
+    "companyColor": "#00a4ef",
+    "category": "Software Engineering",
+    "location": "Redmond, WA",
+    "jobType": "Internship",
+    "workMode": "Hybrid",
+    "experience": "Entry Level",
+    "salary": "$45 - $55 / hr ($7,500/mo)",
+    "salaryMin": 50000,
+    "salaryMax": 65000,
+    "postedDate": "2026-10-13",
+    "featured": true,
+    "urgent": true,
+    "skills": ["React", "JavaScript", "CSS", "Git", "HTML"],
+    "description": "Microsoft is offering an exciting internship opportunity for university students to gain real-world frontend engineering experience on Azure Portal and Microsoft 365 web apps.",
+    "responsibilities": [
+      "Work closely with a full-time senior software engineer mentor on client-facing features.",
+      "Write modern, accessible React components following Microsoft Fluent UI design guidelines.",
+      "Participate in daily standup meetings, sprint retrospectives, and code reviews.",
+      "Present an end-of-internship capstone project to department directors."
+    ],
+    "requirements": [
+      "Currently enrolled in a Bachelor's, Master's, or PhD in Computer Science or related STEM field.",
+      "Familiarity with React, JavaScript, HTML5, and CSS3 through coursework or personal projects.",
+      "Eager to learn, strong collaboration spirit, and good communication skills.",
+      "Available for a 12-week summer internship program."
+    ],
+    "benefits": [
+      "Competitive hourly intern pay plus relocation stipend",
+      "Provided corporate housing or housing stipend",
+      "Mentorship and networking events with executive leadership",
+      "Opportunity for return full-time offer upon graduation"
+    ],
+    "companyOverview": {
+      "about": "Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge.",
+      "size": "220,000+ employees",
+      "industry": "Enterprise Software & Cloud",
+      "founded": "1975",
+      "website": "https://microsoft.com"
+    }
+  },
+  {
+    "id": "job-14",
+    "title": "Senior AI / NLP Research Engineer",
+    "company": "Google",
+    "companyLogo": "GG",
+    "companyColor": "#4285f4",
+    "category": "Data & AI",
+    "location": "Mountain View, CA",
+    "jobType": "Full-time",
+    "workMode": "Hybrid",
+    "experience": "Senior Level",
+    "salary": "$175,000 - $230,000 / yr",
+    "salaryMin": 175000,
+    "salaryMax": 230000,
+    "postedDate": "2026-10-11",
+    "featured": true,
+    "urgent": false,
+    "skills": ["PyTorch", "Transformers", "LLMs", "Python", "Distributed Training"],
+    "description": "Join Google DeepMind and Google Cloud AI teams to pioneer breakthrough generative AI architectures, fine-tuning large language models, and bringing conversational intelligence to billions of users.",
+    "responsibilities": [
+      "Research, prototype, and train state-of-the-art transformer and multimodal AI architectures.",
+      "Optimize inference latency and quantization for serving models on TPU/GPU clusters.",
+      "Evaluate model safety, hallucination mitigation, and alignment benchmarks.",
+      "Publish research papers and submit open source improvements."
+    ],
+    "requirements": [
+      "4+ years applied research or production experience in NLP, LLMs, or deep learning.",
+      "Proficient in PyTorch, JAX, or TensorFlow, and distributed GPU training libraries.",
+      "Strong publication record or track record of shipping production ML models.",
+      "Master's or Ph.D. in Computer Science, AI, or equivalent industry experience."
+    ],
+    "benefits": [
+      "Industry-leading total compensation with Google stock equity (GSUs)",
+      "On-site gourmet meals, micro-kitchens, and wellness centers",
+      "401(k) matching with immediate vesting",
+      "Global education programs and academic conference sponsorships"
+    ],
+    "companyOverview": {
+      "about": "Google's mission is to organize the world's information and make it universally accessible and useful.",
+      "size": "180,000+ employees",
+      "industry": "Information Technology & AI",
+      "founded": "1998",
+      "website": "https://google.com"
+    }
+  },
+  {
+    "id": "job-15",
+    "title": "Contract UI Designer (3 Months)",
+    "company": "Notion",
+    "companyLogo": "NT",
+    "companyColor": "#000000",
+    "category": "UI/UX Design",
+    "location": "San Francisco, CA",
+    "jobType": "Contract",
+    "workMode": "Remote",
+    "experience": "Mid Level",
+    "salary": "$60 - $85 / hr",
+    "salaryMin": 90000,
+    "salaryMax": 130000,
+    "postedDate": "2026-10-12",
+    "featured": false,
+    "urgent": true,
+    "skills": ["Figma", "Design Systems", "Iconography", "Web Design"],
+    "description": "Notion is looking for a skilled Contract UI Designer for a 3-month engagement to redesign our public template gallery, icon sets, and marketing presentation components.",
+    "responsibilities": [
+      "Craft high-fidelity UI components and mockups following Notion's minimal aesthetic.",
+      "Design polished SVG icons, visual banners, and responsive layouts.",
+      "Hand off production-ready assets and detailed specs to frontend developers.",
+      "Incorporate team feedback quickly through iterative Figma design reviews."
+    ],
+    "requirements": [
+      "3+ years experience as a UI or Visual Designer.",
+      "Outstanding Figma design portfolio showcasing clean typography and spatial balance.",
+      "Strong attention to pixel detail, spacing, and micro-interactions.",
+      "Available for 35-40 hours per week during the 3-month contract."
+    ],
+    "benefits": [
+      "Competitive hourly contracting rate",
+      "100% remote flexibility from any US time zone",
+      "Potential extension or transition to full-time based on project success",
+      "Direct collaboration with Notion's core design team"
+    ],
+    "companyOverview": {
+      "about": "Notion is the connected workspace where better, faster work happens.",
+      "size": "600+ employees",
+      "industry": "Productivity & Note Taking",
+      "founded": "2013",
+      "website": "https://notion.so"
+    }
+  },
+  {
+    "id": "job-16",
+    "title": "Customer Success & Support Specialist",
+    "company": "Zendesk",
+    "companyLogo": "ZD",
+    "companyColor": "#03363d",
+    "category": "Customer Success",
+    "location": "Chicago, IL",
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "experience": "Entry Level",
+    "salary": "$60,000 - $78,000 / yr",
+    "salaryMin": 60000,
+    "salaryMax": 78000,
+    "postedDate": "2026-10-09",
+    "featured": false,
+    "urgent": false,
+    "skills": ["Customer Support", "Zendesk", "Communication", "Troubleshooting", "CRM"],
+    "description": "Join Zendesk to help global enterprises provide seamless customer experiences. In this role, you will assist clients in resolving technical inquiries, optimizing workflows, and maximizing their software value.",
+    "responsibilities": [
+      "Provide high-quality technical assistance to clients via live chat, email, and scheduled video calls.",
+      "Diagnose system issues and coordinate escalations with engineering teams.",
+      "Write helpful knowledge base guides and FAQs to assist self-service customers.",
+      "Maintain a 95%+ customer satisfaction (CSAT) rating."
+    ],
+    "requirements": [
+      "1+ years in customer service, tech support, or client-facing operations.",
+      "Exceptional verbal and written empathy and communication skills.",
+      "Quick learner with curiosity for understanding SaaS software products.",
+      "High attention to detail and patience when resolving complex user issues."
+    ],
+    "benefits": [
+      "Full health, vision, and dental insurance",
+      "Flexible work-from-home schedule",
+      "401(k) with company match",
+      "Annual wellness and home setup reimbursement"
+    ],
+    "companyOverview": {
+      "about": "Zendesk makes customer service better by building software to meet customer needs and empower teams.",
+      "size": "6,000+ employees",
+      "industry": "Customer Service Software",
+      "founded": "2007",
+      "website": "https://zendesk.com"
+    }
+  }
+]
